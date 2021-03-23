@@ -1,0 +1,10 @@
+D:\Study\C#\WEB\Dama_IA\bin\Debug\Dama_IA.exe.config
+D:\Study\C#\WEB\Dama_IA\bin\Debug\Dama_IA.exe
+D:\Study\C#\WEB\Dama_IA\bin\Debug\Dama_IA.pdb
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.csprojAssemblyReference.cache
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.Properties.Resources.resources
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.csproj.GenerateResource.cache
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.csproj.CoreCompileInputs.cache
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.exe
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.pdb
+D:\Study\C#\WEB\Dama_IA\obj\Debug\Dama_IA.FormGame.resources
